@@ -1,0 +1,212 @@
+﻿id,question,answer,refused,articles_cites,articles_fournis,citations_hors_contexte,latency_s,fidelite_0_1,citations_correctes_0_1,commentaire
+1,Quelqu'un a publié ma photo sur Facebook sans mon accord. Que dit la loi ?,"**Ce que dit la loi**
+La loi protège l'intimité de la vie privée. Il est interdit de porter volontairement atteinte à l'intimité de la vie privée d'autrui en fixant, enregistrant ou transmettant, sans le consentement de la personne, son image lorsqu'elle se trouve dans un lieu privé [CODE-DU-NUMERIQUE, Article 574]. 
+De plus, si cette publication sur internet (comme sur un réseau social) est un montage réalisé avec l'image d'une personne sans son consentement, elle est punie s'il n'apparaît pas à l'évidence qu'il s'agit d'un montage ou s'il n'en est pas expressément fait mention [CODE-DU-NUMERIQUE, Article 576].
+
+**Sanctions ou recours**
+* Pour une atteinte à la vie privée commise sur internet (captation, enregistrement ou transmission de l'image dans un lieu privé sans consentement) : la peine est de cinq (5) ans d'emprisonnement et de vingt-cinq millions (25 000 000) de francs CFA d'amende [CODE-DU-NUMERIQUE, Article 574].
+* Pour la publication d'un montage d'une image sans consentement sur internet : la peine est également de cinq (5) ans d'emprisonnement et de vingt-cinq millions (25 000 000) de francs CFA d'amende [CODE-DU-NUMERIQUE, Article 576].
+*(Note : Le nouveau code pénal de 2018 prévoit également des peines pour la publication de montages ou les atteintes à la vie privée, renvoyant à des peines d'emprisonnement de six (06) mois à cinq (05) ans et d'une amende de cent mille (500.000) à deux millions (2.000.000) de francs CFA [le-nouveau-code-penal-2018, Article 610 et Article 608], mais le Code du Numérique s'applique spécifiquement pour les infractions commises sur internet).*
+
+**Limites**
+Les extraits fournis ne permettent pas de conclure si la photo a été prise dans un lieu privé ou public, ni s'il s'agit d'un montage. Le texte indique également que si les actes ont été accomplis au vu et au su des intéressés sans qu'ils s'y soient opposés alors qu'ils étaient en mesure de le faire, le consentement est présumé [CODE-DU-NUMERIQUE, Article 574]. Les extraits ne précisent pas non plus la procédure exacte pour porter plainte, hormis le fait que les poursuites pour le code pénal s'exercent dans les conditions prévues à l'article 609 alinéas 1er et 2 [le-nouveau-code-penal-2018, Article 610].
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['574', '576', '608', '610']","['574', '576', '608', '610']",[],1.96,,,
+2,Est-il légal de filmer une personne dans un lieu privé sans son consentement et de diffuser la vidéo ?,"**Ce que dit la loi**
+Il est interdit de porter volontairement atteinte à l'intimité de la vie privée d'autrui en fixant ou en transmettant l'image d'une personne se trouvant dans un lieu privé, sans son consentement [le-nouveau-code-penal-2018, Article 608]. 
+De même, commettre cet acte au moyen ou sur un réseau de communication électronique ou un système informatique (comme Internet) est interdit [CODE-DU-NUMERIQUE, Article 574].
+Le consentement est toutefois présumé si les actes ont été accomplis au vu et au su des participants lors d'une réunion [le-nouveau-code-penal-2018, Article 608], ou au vu et au su des intéressés sans qu'ils ne s'y soient opposés alors qu'ils étaient en mesure de le faire [CODE-DU-NUMERIQUE, Article 574].
+
+**Sanctions ou recours**
+* Si l'infraction est commise de manière générale : un emprisonnement de six (06) mois à cinq (05) ans et une amende de cent mille (100.000) à deux millions (2.000.000) de francs CFA [le-nouveau-code-penal-2018, Article 608].
+* Si l'infraction est commise sur ou au moyen d'un réseau de communication électronique ou d'un système informatique (Internet) : cinq (5) ans d'emprisonnement et vingt-cinq millions (25.000.000) de francs CFA d'amende [CODE-DU-NUMERIQUE, Article 574].
+
+**Limites**
+Les extraits fournis ne précisent pas les procédures exactes pour porter plainte ni les conditions d'indemnisation des victimes, en dehors de la mention des peines d'emprisonnement et d'amende.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['574', '608']","['574', '576', '608', '610']",[],3.93,,,
+3,Que risque une personne qui diffuse des images intimes d'une autre personne sans son accord ?,"**Ce que dit la loi**
+La loi punit le fait de porter volontairement atteinte à l'intimité de la vie privée d'autrui en fixant, enregistrant ou transmettant l'image d'une personne se trouvant dans un lieu privé, sans son consentement [le-nouveau-code-penal-2018, Article 608]. 
+Lorsque ces actes sont commis au moyen ou sur un réseau de communication électronique ou un système informatique, il s'agit d'une atteinte à la vie privée commise sur internet [CODE-DU-NUMERIQUE, Article 574].
+De plus, est punie la publication (par quelque voie que ce soit ou sur internet) d'un montage réalisé avec l'image d'une personne sans son consentement, s'il n'apparaît pas à l'évidence qu'il s'agit d'un montage ou s'il n'en est pas expressément fait mention [le-nouveau-code-penal-2018, Article 610 ; CODE-DU-NUMERIQUE, Article 576].
+Le consentement est toutefois présumé si les actes ont été accomplis au vu et au su des participants lors d'une réunion [le-nouveau-code-penal-2018, Article 608], ou au vu et au su des intéressés sans qu'ils s'y soient opposés alors qu'ils en étaient capables [CODE-DU-NUMERIQUE, Article 574].
+
+**Sanctions ou recours**
+* Pour une atteinte à l'intimité de la vie privée hors internet (en theorie générale) : un emprisonnement de six (06) mois à cinq (05) ans et une amende de cent mille (500.000) à deux millions (2.000.000) de francs CFA [le-nouveau-code-penal-2018, Article 608].
+* Pour une atteinte commise sur internet ou via un réseau de communication électronique : cinq (5) ans d'emprisonnement et vingt-cinq millions (25.000.000) de francs CFA d'amende [CODE-DU-NUMERIQUE, Article 574].
+* Pour la publication d'un montage réalisé avec l'image d'une personne sans son consentement (hors internet) : les mêmes peines que celles prévues à l'article 608 [le-nouveau-code-penal-2018, Article 610].
+* Pour la publication sur internet d'un montage réalisé avec l'image d'une personne sans son consentement : cinq (5) ans d'emprisonnement et vingt-cinq millions (25.000.000) de francs CFA d'amende [CODE-DU-NUMERIQUE, Article 576].
+
+**Limites**
+Les extraits fournis ne précisent pas les procédures exactes de plainte, les détails sur les conditions de poursuite mentionnées à l'article 609 du code pénal, ni la définition spécifique du caractère ""intime"" au-delà de la notion d'atteinte à l'intimité de la vie privée dans un lieu privé ou sur internet.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['574', '576', '608', '610']","['574', '576', '608', '610']",[],4.57,,,
+4,Une entreprise peut-elle collecter mes données personnelles sans m'en informer ?,"**Ce que dit la loi**
+Lorsqu'une entreprise traite vos données à caractère personnel sans vous avoir préalablement informé individuellement de votre droit d'accès, de rectification ou d'opposition, de la nature des données transmises et de leurs destinataires, il s'agit d'un traitement non autorisé [Code du Numérique, Article 517]. 
+
+Si les données n'ont pas été collectées directement auprès de vous, le responsable du traitement ou son représentant doit vous fournir un ensemble d'informations (nom, adresse, finalités, existence d'un droit d'opposition, catégories de données, destinataires, etc.) dès l'enregistrement des données ou, au plus tard, au moment de la première communication à un tiers, sauf si vous en êtes déjà informé [Code du Numérique, Article 416].
+
+**Sanctions ou recours**
+* Le fait de procéder à un traitement de données sans vous avoir préalablement informé ou d'agir malgré votre opposition est puni selon les peines prévues à l'article 454 du Code du numérique [Code du Numérique, Article 517].
+* Vous avez le droit de vous opposer, à tout moment et pour des motifs légitimes, au traitement de vos données [Code du Numérique, Article 440]. Pour ce faire, vous pouvez adresser une demande datée et signée, par voie postale ou électronique, au responsable du traitement ou à son représentant, qui doit y donner suite dans les trente (30) jours suivant sa réception [Code du Numérique, Article 440].
+
+**Limites**
+Les extraits fournis ne précisent pas la nature exacte des peines encourues mentionnées à l'article 454, ni les procédures détaillées pour saisir l'Autorité en cas de réclamation.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['416', '440', '517']","['307', '416', '440', '517']",[],3.89,,,
+5,Comment puis-je demander l'accès à mes données personnelles ou leur suppression ?,"**Ce que dit la loi**
+
+* **Pour demander l'accès à vos données personnelles :**
+  Vous pouvez demander au responsable du traitement des informations telles que la confirmation que des données vous concernant font ou ne font pas l'objet d'un traitement, les finalités, les catégories de données, ainsi que la communication sous forme intelligible des données vous concernant [Code-du-Numérique, Article 437]. 
+  Pour ce faire, vous devez adresser une demande datée et signée, par voie postale ou électronique, au responsable du traitement ou à son représentant [Code-du-Numérique, Article 437]. Une copie des renseignements vous sera communiquée sans délai et au plus tard dans les soixante (60) jours suivant la réception de la demande [Code-du-Numérique, Article 437].
+
+* **Pour demander la suppression (ou la rectification) de vos données personnelles :**
+  Toute personne physique peut exiger du responsable du traitement que soient supprimées (ou rectifiées, complétées, mises à jour, verrouillées) les données à caractère personnel la concernant qui sont inexactes, incomplètes, équivoques, périmées, non pertinentes ou dont la collecte, l'utilisation, la communication ou la conservation est interdite [Code-du-Numérique, Article 441].
+  Pour exercer ce droit, vous devez adresser une demande par voie postale ou par voie électronique, datée et signée, au responsable du traitement ou à son représentant [Code-du-Numérique, Article 441]. Le responsable du traitement dispose d'un délai de quarante-cinq (45) jours suivant la réception de la demande pour communiquer les effacements effectués à la personne concernée ainsi qu'aux destinataires à qui ces données avaient été communiquées [Code-du-Numérique, Article 441].
+
+**Sanctions ou recours**
+* En cas de non-respect du délai de quarante-cinq (45) jours pour la rectification ou la suppression, une plainte peut être adressée à l'Autorité par l'auteur de la demande [Code-du-Numérique, Article 441].
+* Vous disposez également d'un droit d'introduire une réclamation auprès d'une Autorité de contrôle [Code-du-Numérique, Article 437].
+
+**Limites**
+Les textes fournis ne précisent pas les sanctions pénales ou pécuniaires applicables en cas de manquement du responsable du traitement, ni les détails sur la structure exacte de l'Autorité de contrôle compétente.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['437', '441']","['415', '437', '440', '441']",[],4.2,,,
+6,Quelle autorité est chargée de la protection des données personnelles au Bénin ?,"**Ce que dit la loi**
+L'autorité chargée de veiller au respect de la vie privée et à l'application des dispositions relatives aux données à caractère personnel sur le territoire de la République du Bénin est l'Autorité de Protection des Données Personnelles (APDP), également désignée comme l'Autorité de protection des données à caractère personnel ou Autorité de contrôle [CODE-DU-NUMERIQUE, Article 1 ; CODE-DU-NUMERIQUE, Article 462]. 
+
+Il s'agit d'une autorité nationale administrative indépendante chargée de veiller à ce que les traitements des données à caractère personnel soient mis en œuvre conformément aux textes, et elle est habilitée à conduire des investigations ou à engager des poursuites en cas de non-respect [CODE-DU-NUMERIQUE, Article 1].
+
+**Sanctions ou recours**
+* Le contexte ne détaille pas de sanctions spécifiques applicables par l'autorité dans cet extrait précis, hormis le fait que l'APDP a la compétence pour conduire des investigations, engager des poursuites et prononcer des sanctions administratives et pécuniaires à l'égard des responsables de traitement [CODE-DU-NUMERIQUE, Article 1 ; CODE-DU-NUMERIQUE, Article 483].
+
+**Limites**
+* Les extraits fournis ne précisent pas la composition exacte de cette autorité, ni la durée et les modalités de nomination de ses membres.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['1', '462', '483']","['1', '378', '462', '483']",[],4.04,,,
+7,Que risque-t-on pour une injure ou une diffamation publiée sur les réseaux sociaux ?,"**Ce que dit la loi**
+Une personne qui commet une infraction de presse, comme une diffamation ou une injure publique, par le biais d'un moyen de communication électronique public (ce qui inclut les réseaux sociaux), est punie des mêmes peines que celles prévues par la loi portant code de l'information et de la communication en vigueur au Bénin, quel que soit le support [CODE-DU-NUMERIQUE, Article 558]. 
+
+Par ailleurs, si l'injure publique commise intentionnellement par le biais d'un système informatique est motivée par le racisme ou la xénophobie (en raison de la race, la couleur, l'ascendance, l'origine nationale ou ethnique, la religion ou l'opinion politique d'une personne ou d'un groupe), elle est spécifiquement réprimée [CODE-DU-NUMERIQUE, Article 551].
+
+**Sanctions ou recours**
+Pour une injure publique commis par le biais d'un système informatique avec une motivation raciste et xénophobe, les sanctions prévues sont :
+* Un emprisonnement de six (06) mois à sept (07) ans ;
+* Une amende de un million (1 000 000) à dix millions (10 000 000) de francs CFA [CODE-DU-NUMERIQUE, Article 551].
+
+Pour les autres infractions de presse (comme la simple diffamation ou injure publique classique) commises par communication électronique, la loi renvoie aux peines prévues par la loi n° 2015-07 du 20 mars 2015 portant code de l'information et de la communication [CODE-DU-NUMERIQUE, Article 558].
+
+**Limites**
+Les extraits fournis ne précisent pas le contenu exact ni le quantum des peines applicables de la loi n° 2015-07 du 20 mars 2015 pour une diffamation ou une injure publique classique qui n'a pas de caractère raciste ou xénophobe.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['551', '558']","['551', '552', '558', '576']",[],4.12,,,
+8,Quelle est la sanction du harcèlement par message électronique ?,"**Ce que dit la loi**
+La loi punit le fait d'initier une communication électronique (par exemple, pour contraindre, intimider, harceler ou provoquer une détresse émotionnelle) ou de harceler une personne par le biais d'une communication électronique tout en sachant (ou en devant savoir) que cela affecterait gravement sa tranquillité [CODE-DU-NUMERIQUE, Article 550]. 
+
+**Sanctions ou recours**
+* **Sanction de base :** Une peine d'emprisonnement de un (01) mois à deux (02) ans et d’une amende de cinq cent mille (500 000) francs CFA à dix millions (10 000 000) de francs CFA, ou de l'une de ces deux peines seulement [CODE-DU-NUMERIQUE, Article 550].
+* **Aggravation de la peine :** Si les faits sont commis envers une personne dont la situation de vulnérabilité (âge, grossesse, maladie, infirmité, déficience physique ou mentale) était apparente ou connue de l'auteur, les peines minimales sont doublées [CODE-DU-NUMERIQUE, Article 550].
+
+**Limites**
+Les extraits fournis ne précisent pas les procédures exactes à suivre pour porter plainte ou saisir les autorités compétentes.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,['550'],"['515', '531', '550']",[],3.38,,,
+9,Est-ce puni de pirater le compte email de quelqu'un ou de s'introduire dans un système informatique ?,"**Ce que dit la loi**
+La loi punit le fait d'accéder intentionnellement et sans droit à un système informatique, ou de s'y maintenir [le-nouveau-code-penal-2018, Article 670 ; CODE-DU-NUMERIQUE, Article 507]. 
+
+**Sanctions ou recours**
+Les sanctions varient selon les circonstances de l'infraction :
+* **Accès simple sans droit :** Puni d'un emprisonnement de un (01) an à cinq (05) ans et d'une amende de cinq cent mille (500 000) à un million (1 000 000) de francs CFA (ou de l'une de ces peines seulement selon le Code du numérique) [le-nouveau-code-penal-2018, Article 670 ; CODE-DU-NUMERIQUE, Article 507].
+* **Accès avec une intention frauduleuse ou pour obtenir des données informatiques :** Puni de deux (02) ans à cinq (05) ans d'emprisonnement et d'une amende de cinq cent mille (500 000) à deux millions (2 000 000) de francs CFA (ou de l'une de ces peines seulement selon le Code du numérique) [le-nouveau-code-penal-2018, Article 670 ; CODE-DU-NUMERIQUE, Article 507].
+* **Outrepassement de pouvoir :** Le fait d'outrepasser son pouvoir d'accès légal avec une intention frauduleuse ou dans le but de nuire est puni de deux (02) ans à cinq (05) ans d'emprisonnement et d'une amende de cinq cent mille (500 000) à deux millions (2 000 000) de francs CFA (ou de l'une de ces peines seulement) [CODE-DU-NUMERIQUE, Article 507].
+* **Circonstances aggravantes :** 
+  * Si l'accès entraîne la suppression, l'obtention ou la modification de données, ou une altération du fonctionnement du système, les peines sont doublées [CODE-DU-NUMERIQUE, Article 507].
+  * Si les faits sont commis en violation des mesures de sécurité, la peine est la réclusion criminelle à temps de dix (10) ans à vingt (20) ans et une amende de cinq millions (5 000 000) à cinq cent millions (500 000 000) de francs CFA [le-nouveau-code-penal-2018, Article 670 ; CODE-DU-NUMERIQUE, Article 507].
+  * Si les faits entraînent ou sont à la base de la mort d'une ou plusieurs personnes, ou s'ils sont commis au profit d'une entreprise terroriste, le coupable est puni de la réclusion criminelle à perpétuité [le-nouveau-code-penal-2018, Article 670].
+  * Si les faits sont commis par ou au profit d'une personne morale, la peine d'amende est de cent millions (100 000 000) à un milliard (1 000 000 000) de francs, sans préjudice des peines privatives de liberté des personnes physiques [le-nouveau-code-penal-2018, Article 670].
+
+**Limites**
+Les extraits fournis ne contiennent pas de définition spécifique du terme ""compte email"" ou de jurisprudence particulière relative à ce cas précis, se limitant de manière générale aux notions de ""système informatique"", de ""données"" et de mesures de sécurité.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['507', '670']","['507', '513', '670', '680']",[],27.66,,,
+10,Que dit la loi sur l'usurpation d'identité en ligne ?,"**Ce que dit la loi**
+La loi interdit d'usurper, de manière intentionnelle et sans droit, l'identité d'un tiers ou des données permettant de l'identifier en utilisant un système informatique. Cette action doit avoir pour but de troubler la tranquillité (de la victime ou d'autrui) ou de porter atteinte à son honneur, à sa considération ou à ses intérêts [CODE-DU-NUMERIQUE, Article 562].
+
+Il est également interdit d'utiliser, de transférer ou de posséder, intentionnellement et sans droit, un moyen d'identification d'une autre personne via un système informatique dans le but de commettre, d'aider ou d'encourager une activité illégale (délit ou crime) [CODE-DU-NUMERIQUE, Article 562].
+
+**Sanctions ou recours**
+* **Peines principales :** L'infraction est punie d'un emprisonnement d'un (01) à cinq (05) ans et d'une amende de cinq millions (5 000 000) à cent millions (100 000 000) de francs CFA, ou de l'une de ces peines seulement [CODE-DU-NUMERIQUE, Article 562].
+* **Circonstance aggravante :** Si les faits sont commis au préjudice d'une personne dont la situation de vulnérabilité (âge, état de grossesse, maladie, infirmité ou déficience physique ou mentale) était apparente ou connue de l'auteur, les peines minimales sont doublées [CODE-DU-NUMERIQUE, Article 562].
+
+**Limites**
+Les extraits fournis ne précisent pas les procédures spécifiques à suivre pour porter plainte ou obtenir réparation auprès des autorités compétentes.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,['562'],"['1', '515', '562', '574']",[],4.02,,,
+11,Quelles obligations ont les fournisseurs de services concernant la conservation des données de connexion ?,"**Ce que dit la loi**
+* Les fournisseurs de services en ligne ont l'obligation de détenir et de conserver les données qui permettent d'identifier toute personne ayant contribué à la création de contenus ou de l'un des contenus des services dont ils sont prestataires [CODE-DU-NUMERIQUE, Article 495].
+* Ils doivent également fournir aux éditeurs de services de communication au public en ligne les moyens techniques nécessaires pour satisfaire aux conditions d'identification [CODE-DU-NUMERIQUE, Article 495].
+* Les opérateurs et les fournisseurs de services de communication au public en ligne doivent effacer ou rendre anonymes les données relatives au trafic, sous réserve des dispositions légales (notamment les articles 34 à 37) [CODE-DU-NUMERIQUE, Article 33].
+* Ils doivent établir des procédures internes pour pouvoir répondre aux demandes des autorités compétentes [CODE-DU-NUMERIQUE, Article 33].
+* Sur demande écrite (notification) d'un officier de police judiciaire ou d'un juge d'instruction en matière criminelle ou correctionnelle, ils sont tenus de conserver et de protéger l'intégrité de données informatiques ou de divulguer/conserver des données de trafic associées à une communication électronique spécifique (pour identifier le fournisseur ou la voie de transmission) [CODE-DU-NUMERIQUE, Article 592 et Article 591].
+
+**Sanctions ou recours**
+* Toute personne qui a connaissance de la mesure de conservation rapide ou de conservation/protection des données du fait de sa fonction, ou qui y prête son concours, est tenue au secret [CODE-DU-NUMERIQUE, Article 592 et Article 591].
+* Toute violation de ce secret est punie par les dispositions du code pénal relatives au secret professionnel, sauf si l'obligation au secret a été levée par l'officier de police judiciaire ou le juge d'instruction [CODE-DU-NUMERIQUE, Article 592 et Article 591].
+
+**Limites**
+* Les extraits ne précisent pas la durée exacte de conservation générale obligatoire des données par défaut (hors injonction spécifique de conservation de 90 jours maximum renouvelable jusqu'à deux ans maximum), ni les sanctions spécifiques applicables au fournisseur s'il ne respecte pas l'obligation initiale de conservation des données d'identification en dehors des procédures pénales décrites.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['33', '495', '591', '592']","['33', '495', '591', '592']",[],4.47,,,
+12,Puis-je être poursuivi pour avoir partagé de fausses informations sur les réseaux sociaux ?,"**Ce que dit la loi**
+Le contexte fourni ne contient aucune disposition spécifique concernant le simple fait de « partager de fausses informations sur les réseaux sociaux ». Toutefois, il punit le fait d'utiliser les éléments d'identification d'une personne (physique ou morale) pour tromper les destinataires d'un message électronique ou les usagers d'un site internet afin de les amener à communiquer des données personnelles ou des informations confidentielles [CODE-DU-NUMERIQUE, Article 515]. Il punit également la publication d'un montage fait avec les paroles ou l'image d'une personne sans son consentement, si l'évidence du montage n'apparaît pas ou s'il n'en est pas expressément fait mention [le-nouveau-code-penal-2018, Article 610].
+
+**Sanctions ou recours**
+* Pour l'utilisation d'éléments d'identification visant à tromper et obtenir des données ou informations confidentielles : un emprisonnement de cinq (5) ans et une amende de vingt-cinq millions (25 000 000) de francs CFA [CODE-DU-NUMERIQUE, Article 515].
+* Pour la publication d'un montage non consenti (selon les conditions de l'article 610) : les peines prévues à l'article 608 [le-nouveau-code-penal-2018, Article 610].
+
+**Limites**
+Les extraits fournis ne permettent pas de conclure sur les sanctions ou les poursuites applicables au partage général de fausses informations (fake news) sur les réseaux sociaux, dès lors qu'il n'y a ni usurpation d'identité à des fins de tromperie ni publication de montage d'images ou de paroles.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['515', '610']","['363', '461', '515', '610']",[],32.44,,,
+13,Comment la loi protège-t-elle les mineurs contre les contenus illicites en ligne ?,"**Ce que dit la loi**
+* **Facilitation de l'accès et diffusion de contenus violents ou pornographiques :** La loi punit toute personne qui facilite l'accès des mineurs à des images, documents, sons ou représentations à caractère pornographique via les technologies de communication et d'information. Elle interdit également de fabriquer, transporter, diffuser (par quelque moyen et support que ce soit), faire le commerce d'un message à caractère violent ou pornographique, portant atteinte à la dignité humaine, ou incitant des mineurs à se livrer à des jeux les mettant physiquement en danger [CODE-DU-NUMERIQUE, Article 520].
+* **Pédopornographie :** La loi punit l'utilisation d'un système informatique pour exposer, produire, vendre, offrir, louer, distribuer, transmettre, diffuser, publier, mettre à disposition ou détenir des supports visuels (objets, films, photos, etc.) représentant des actes sexuels à caractère pornographique impliquant des mineurs. Cette protection s'applique également aux images pornographiques d'une personne dont l'aspect physique est celui d'un mineur, même si cette personne était majeure au jour de l'enregistrement [CODE-DU-NUMERIQUE, Article 518].
+* **Traitement des données personnelles des mineurs :** Pour l'offre directe de services de la société de l'information, le traitement des données personnelles d'un mineur est autorisé sans accord parental à partir de l'âge de 16 ans. En deçà de 16 ans, le traitement n'est légal que si le consentement est donné ou autorisé par le titulaire de la responsabilité parentale [CODE-DU-NUMERIQUE, Article 446].
+* **Responsabilité pénale des mineurs :** Les mineurs capables de discernement sont pénalement responsables des infractions commises, tout en bénéficiant d'une atténuation de responsabilité liée à leur âge qui détermine les mesures de protection, d'éducation ou les peines applicables [le-nouveau-code-penal-2018, Article 31].
+
+**Sanctions ou recours**
+* **Pour la facilitation d'accès ou la diffusion de contenus violents/pornographiques :** L'auteur est puni des mêmes peines que celles prévues par le code pénal relatives à la corruption de la jeunesse [CODE-DU-NUMERIQUE, Article 520].
+* **Pour la production, la distribution ou la mise à disposition de pédopornographie :** L'auteur encourt une réclusion de deux (02) ans à sept (07) ans et une amende de vingt millions (20 000 000) à cent millions (100 000 000) de francs CFA [CODE-DU-NUMERIQUE, Article 518].
+* **Pour l'acquisition ou la détention intentionnelle de pornographie enfantine :** L'auteur encourt un emprisonnement de six (06) mois à cinq (05) ans et une amende de cinquante millions (50 000 000) à cinq cent millions (500 000 000) de francs CFA, ou l'une de ces peines seulement [CODE-DU-NUMERIQUE, Article 518].
+* **Pour la consultation habituelle ou payante de services de pornographie en ligne :** L'infraction est punie de dix (10) ans d'emprisonnement et de vingt-cinq millions (25 000 000) de francs CFA d'amende [CODE-DU-NUMERIQUE, Article 518].
+* **Peines complémentaires et mesures :** La confiscation des objets liés à l'infraction peut être prononcée, de même que des interdictions (telles que prévues par le code pénal) ou une interdiction provisoire ou définitive de fréquenter certains endroits ou établissements accueillant des mineurs [CODE-DU-NUMERIQUE, Article 518].
+
+**Limites**
+* Les extraits ne précisent pas la nature exacte des peines du code pénal relatives à la « corruption de la jeunesse » mentionnées à l'article 520.
+* Le texte ne détaille pas l'ensemble des dispositions de la « loi particulière » régissant la responsabilité pénale des mineurs et leurs sanctions éducatives [le-nouveau-code-penal-2018, Article 31].
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['31', '446', '518', '520']","['31', '446', '518', '520']",[],5.84,,,
+14,Un employeur peut-il installer des caméras de surveillance et traiter les images de ses employés ?,"**Ce que dit la loi**
+Le contexte indique que le traitement des données biométriques aux fins d'identifier une personne physique de manière unique est interdit, de même que le traitement de données concernant la santé [CODE-DU-NUMERIQUE, Article 394]. Toutefois, cette interdiction ne s'applique pas si la personne concernée a donné son consentement explicite, ou si le traitement est nécessaire pour un motif d'intérêt public, ou encore s'il est nécessaire pour des motifs d'intérêt public dans le domaine de la santé publique, entre autres exceptions [CODE-DU-NUMERIQUE, Article 394].
+
+**Sanctions ou recours**
+Le texte ne mentionne pas spécifiquement les sanctions applicables à l'installation de caméras de surveillance par un employeur, mais il prévoit qu'en cas de récidive ou d'infraction à l'interdiction de traitement (comme le fait de traiter des données malgré l'opposition de la personne fondée sur des motifs légitimes), le responsable encourt un emprisonnement de un à dix ans et une amende de dix millions à cent millions de francs CFA, ou l'une de ces deux peines seulement [CODE-DU-NUMERIQUE, Article 461]. De plus, le responsable de traitement est passible du paiement des amendes encourues par son sous-traitant [CODE-DU-NUMERIQUE, Article 461].
+
+**Limites**
+Les extraits fournis ne permettent pas de conclure si l'installation spécifique de caméras de surveillance sur le lieu de travail par un employeur est autorisée ou interdite, ni quelles règles précises s'appliquent aux images des employés, hormis les règles générales sur les données biométriques et sensibles.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['394', '461']","['394', '460', '461']",[],3.92,,,
+15,Quelle est la valeur juridique d'une signature électronique ?,"**Ce que dit la loi**
+* La signature électronique sert à identifier la personne qui l'appose et à montrer son consentement aux obligations qui découlent de l'acte juridique [CODE-DU-NUMERIQUE, Article 284].
+* Elle est admise dans les transactions électroniques [CODE-DU-NUMERIQUE, Article 284].
+* Une signature électronique créée par un dispositif qualifié (qui répond aux exigences de l'article 287), placée sous le contrôle exclusif du signataire et reposant sur un certificat électronique, est admise comme signature au même titre qu’une signature manuscrite [CODE-DU-NUMERIQUE, Article 285].
+* La fiabilité d'un procédé de signature électronique est présumée jusqu'à preuve contraire s'il s'agit d'une signature électronique qualifiée établie avec un dispositif sécurisé et un certificat qualifié [CODE-DU-NUMERIQUE, Article 284].
+* De plus, un document écrit sous forme électronique est présumé (sauf preuve contraire) avoir été signé par son auteur et son texte est présumé inaltéré si une signature électronique sécurisée y est associée [CODE-DU-NUMERIQUE, Article 285].
+
+**Sanctions ou recours**
+* Le contexte ne mentionne aucune sanction ni aucun recours spécifique en lien avec la signature électronique.
+
+**Limites**
+* Les extraits fournis ne précisent pas la nature exacte des exigences prévues à l'article 287 ni celles fixées par voie réglementaire pour les certificats qualifiés, bien que ces notions soient mentionnées dans les articles.
+
+Information générale, qui ne remplace pas l'avis d'un avocat ou d'un professionnel du droit.",False,"['284', '285']","['266', '284', '285', '290']",[],4.1,,,
