@@ -57,6 +57,9 @@ Corpus limité aux textes fournis (peut être incomplet ou dépassé) ; jeu de t
 
 ## Équipe
 *GNONHOSSOU Gildas Mahugnon*
+
 *QUENUM Mahulahen Eustache Ornel*
+
 *BIAHOU Ahossou Junior Marie-Clémenceau* 
+
 *ADOGOUN Déo Gracias Mahugnon*
